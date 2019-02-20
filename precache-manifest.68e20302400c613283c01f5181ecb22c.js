@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f19307203d1d4f35a0e0",
-    "url": "/reduxcrud/static/css/main.27cc140b.chunk.css"
+    "revision": "e584d3539e36d57f3b8c",
+    "url": "/reduxcrud/static/css/main.6efd6339.chunk.css"
   },
   {
-    "revision": "f19307203d1d4f35a0e0",
-    "url": "/reduxcrud/static/js/main.f1930720.chunk.js"
+    "revision": "e584d3539e36d57f3b8c",
+    "url": "/reduxcrud/static/js/main.e584d353.chunk.js"
   },
   {
     "revision": "00740c74f37d84b9a97a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/reduxcrud/static/js/2.7151523f.chunk.js"
   },
   {
-    "revision": "363a7075efb4ed79097ae03bce7b120c",
+    "revision": "19e566f04bfce00ac801e74baa715579",
     "url": "/reduxcrud/index.html"
   }
 ];

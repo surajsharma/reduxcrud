@@ -1,13 +1,13 @@
 {
-  "main.css": "/reduxcrud/static/css/main.27cc140b.chunk.css",
-  "main.js": "/reduxcrud/static/js/main.f1930720.chunk.js",
-  "main.js.map": "/reduxcrud/static/js/main.f1930720.chunk.js.map",
+  "main.css": "/reduxcrud/static/css/main.6efd6339.chunk.css",
+  "main.js": "/reduxcrud/static/js/main.e584d353.chunk.js",
+  "main.js.map": "/reduxcrud/static/js/main.e584d353.chunk.js.map",
   "runtime~main.js": "/reduxcrud/static/js/runtime~main.00740c74.js",
   "runtime~main.js.map": "/reduxcrud/static/js/runtime~main.00740c74.js.map",
   "static/js/2.7151523f.chunk.js": "/reduxcrud/static/js/2.7151523f.chunk.js",
   "static/js/2.7151523f.chunk.js.map": "/reduxcrud/static/js/2.7151523f.chunk.js.map",
   "index.html": "/reduxcrud/index.html",
-  "precache-manifest.ce1fd02233928391b2f13905641300d4.js": "/reduxcrud/precache-manifest.ce1fd02233928391b2f13905641300d4.js",
+  "precache-manifest.68e20302400c613283c01f5181ecb22c.js": "/reduxcrud/precache-manifest.68e20302400c613283c01f5181ecb22c.js",
   "service-worker.js": "/reduxcrud/service-worker.js",
-  "static/css/main.27cc140b.chunk.css.map": "/reduxcrud/static/css/main.27cc140b.chunk.css.map"
+  "static/css/main.6efd6339.chunk.css.map": "/reduxcrud/static/css/main.6efd6339.chunk.css.map"
 }
